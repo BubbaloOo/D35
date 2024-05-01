@@ -1,0 +1,26 @@
+Requisitos: 
+-Selenium
+-web driver del navegador usado
+-Python
+1-
+Medio uni github a el proyecto D35 que es la ia , amm instale python , y estoy buscando
+como instalar selenium solo para el proyecto y no para la pc entera
+
+Al usar
+   "python -m venv D35 "
+Cree un entorno virtual y al usar
+   "D35\Scripts\activate"
+Entro en el y lo activo
+
+Al parecer se tiene que crear en vs code creo idk
+No funciono al inicio pero tuve que usar Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+ 
+Para poder usar el entorno que cree centro de vs code 
+
+Instale el webdriver en una carpeta llamada progrs ojala medio funcione xd spoiler .. no
+necestio hacer que chat gpt funcione en el programa ese es el primer paso
+
+Dia dos!!! 
+
+Logre conectar  gpt al vscode , toca agregan fucnionalidad real osea mostrar cosas  de chat pgt en esta cosa y ... creo que deberiamos guardar en git
+Cambio y fuera
